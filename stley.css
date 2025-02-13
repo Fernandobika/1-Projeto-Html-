@@ -1,0 +1,18 @@
+body{
+    background-color:#cccccc
+}
+
+.titulo{
+    font: size 40px;
+    width: 50%;
+
+}
+
+.mercedes_header{
+    width: 20px;
+    border-radius: 10px;
+}
+
+.mercedes{
+    width: 50%;
+}
